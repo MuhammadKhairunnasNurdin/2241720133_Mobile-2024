@@ -55,4 +55,14 @@ Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode
 
 **Langkah 6: Date and Time Pickers**
 
-![alt](assets/date_picker.png)
+
+# Tugas praktikum
+
+**Bukti Screecshot**
+
+![alt](assets/task_01.png)
+![alt](assets/task_02.png)
+
+**Bukti Gif**
+
+![alt](assets/task_.gif)
